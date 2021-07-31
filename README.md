@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash-Kochrekar
-- 👀 I’m interested in C and writing LOGIC
+<!-- - 👀 I’m interested in C and writing LOGIC -->
 <!-- - 🌱 I’m currently mastering C -->
 
 <!---
