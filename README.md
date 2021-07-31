@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Student (LEARNING)
+## I'm a Student
 
 - 💻 Currently Learning Web Development
 - ❤ Love to Explore New Technologies
