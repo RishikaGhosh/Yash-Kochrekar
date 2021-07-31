@@ -2,6 +2,14 @@
 
 ---
 
+## I'm a Student (LEARNING)
+
+- 💻 Currently Learning Web Development
+- ❤ Love to Explore New Technologies
+- 🚀 2021 OBJECTIVES : Python and Web Development
+- 🌌 I also have deep interests in Space Science and Particle Physics
+- 📧 Email : ***yash.kochrekar07@gamil.com***
+- 👉🏻 Portfolio Website :- (COMING SOON 😉)
 
 <!---
 Yash-Kochrekar/Yash-Kochrekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
