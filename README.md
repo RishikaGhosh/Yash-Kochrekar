@@ -18,7 +18,7 @@
 👉🏻 Portfolio Website :- (COMING SOON 😉)<br>
 </p>
 
-<p align="left"> <a href="https://twitter.com/yash_kochrekar" target="blank"><img src="https://icedrive.net/0/81au9gRQr1" alt="Yash Kochrekar"></a> </p>
+<p align="left"> <a href="https://twitter.com/yash_kochrekar" target="blank"><img src="https://icedrive.net/0/81au9gRQr1" alt="Yash Kochrekar" /></a> </p>
 
 
 
