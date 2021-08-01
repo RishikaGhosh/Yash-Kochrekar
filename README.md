@@ -2,7 +2,7 @@
 ---
 ## I'm a Student
 
-<p><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="right">
+<p style="font-family:verdana"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="right">
 💻 Currently Learning Web Development<br>
 ❤ Love to Explore New Technologies<br>
 🚀 2021 OBJECTIVES : Python and Web Development<br>
