@@ -2,7 +2,7 @@
 ---
 ## I'm a Student
 
-<p align="right"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif"><a href="https://github.com/Yash-Kochrekar"></p>
+<p align="right"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif"><a href="https://github.com/Yash-Kochrekar"></a></p>
 
 - 💻 Currently Learning Web Development
 - ❤ Love to Explore New Technologies
