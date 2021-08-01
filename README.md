@@ -17,7 +17,7 @@
 🚀 2021 OBJECTIVES : Python and Web Development<br>
 🌌 I also have deep interests in Space Science and Particle Physics<br>
 📧 Email : <a href="https://yash.kochrekar07@gamil.com/">yash.kochrekar07@gmail.com</a><br>
-👉🏻 Portfolio Website :- (COMING SOON 😉)<br>
+👉🏻 Portfolio Website :- (In the Pipeline😉)<br>
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/yash_kochrekar" target="blank"><img src="https://icedrive.net/0/81au9gRQr1" alt="Yash Kochrekar"></a> </p> -->
