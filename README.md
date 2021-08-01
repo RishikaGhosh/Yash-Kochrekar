@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Yash Kochrekar
 
----
+--
 
 ## I'm a Student
 
