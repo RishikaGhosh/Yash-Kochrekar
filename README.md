@@ -1,7 +1,5 @@
 ### 👋 Hey, I’m Yash Kochrekar
-
---
-
+---
 ## I'm a Student
 
 - 💻 Currently Learning Web Development
