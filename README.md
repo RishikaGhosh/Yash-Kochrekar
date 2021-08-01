@@ -11,6 +11,7 @@
 👉🏻 Portfolio Website :- (COMING SOON 😉)<br>
 </p>
 
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Kochrekar&show_icons=true&theme=radical)
 
 
 
