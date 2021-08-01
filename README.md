@@ -16,7 +16,7 @@
 ❤ Love to Explore New Technologies<br>
 🚀 2021 OBJECTIVES : Python and Web Development<br>
 🌌 I also have deep interests in Space Science and Particle Physics<br>
-📧 Email : <a href="https://yash.kochrekar07@gamil.com/">yash.kochrekar07@gamil.com</a><br>
+📧 Email : <a href="https://yash.kochrekar07@gamil.com/">yash.kochrekar07@gmail.com</a><br>
 👉🏻 Portfolio Website :- (COMING SOON 😉)<br>
 </p>
 
