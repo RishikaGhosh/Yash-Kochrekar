@@ -9,8 +9,8 @@
 🌌 I also have deep interests in Space Science and Particle Physics<br>
 📧 Email : <a href="https://yash.kochrekar07@gamil.com/">yash.kochrekar07@gamil.com</a><br>
 👉🏻 Portfolio Website :- (COMING SOON 😉)<br>
-<a href="https://github.com/Yash-Kochrekar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yash-Kochrekar&show_icons=true&theme=radical)" />
+<a href="https://github.com/Yash-Kochrekar/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-Kochrekar&show_icons=true&theme=radical)" />
 </a>
 </p>
 
