@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Yash Kochrekar
----
+
 ## I'm a Student
 
 <p style="font-family:verdana"><a href="https://github.com/Yash-Kochrekar"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" align="right"></a>
