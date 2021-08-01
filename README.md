@@ -4,8 +4,7 @@
 
 <p>
 <a align= "center" href="https://github.com/Yash-Kochrekar">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Yash-Kochrekar&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-_icons=true&count_private=true" />
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Yash-Kochrekar&theme=blue-green_icons=true&count_private=true" />
   <img align="right" height="270px" width="350" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" /> </a>
 
 </p>
