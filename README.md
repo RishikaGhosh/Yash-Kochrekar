@@ -31,7 +31,14 @@
   <img align="left" alt="Yash Kochrekar Instagram" width="21px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/instagram.png" />
 </a>
 
+<a href="https://www.chess.com/member/yash_kochrekar">
+  <img align="left" alt="Yash Kochrekar Chess" width="21px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/chess.png" />
+</a>
 
+
+<a href="https://github.com/Yash-Kochrekar">
+  <img align="left" alt="Yash Kochrekar Chess" width="21px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/github.png" />
+</a>
 
 
 
