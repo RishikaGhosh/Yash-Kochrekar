@@ -27,7 +27,9 @@
   <img align="left" alt="Yash kochrekar Twitter" width="21px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/twitter.jpg" />
 </a>         
          
-<!-- <p align="left"> <a href="https://twitter.com/yash_kochrekar" target="blank"><img src="https://icedrive.net/0/81au9gRQr1" alt="Yash Kochrekar"></a> </p> -->
+<a href="https://www.instagram.com/yash_k.7/">
+  <img align="left" alt="Yash Kochrekar Instagram" width="21px" src="https://instagram.fbom3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/203019087_3969530746500786_7930596639916235962_n.jpg?_nc_ht=instagram.fbom3-1.fna.fbcdn.net&_nc_ohc=eR5qPymcG64AX_D8o5T&edm=ABfd0MgBAAAA&ccb=7-4&oh=1f89251e920d46e8c0f98876f842d66b&oe=610D81F3&_nc_sid=7bff83" />
+</a>
 
 
 
