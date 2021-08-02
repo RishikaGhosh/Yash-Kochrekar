@@ -37,7 +37,7 @@
 
 
 <a href="https://github.com/Yash-Kochrekar">
-  <img align="left" alt="Yash Kochrekar Chess" width="21px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/github.png" />
+  <img align="left" alt="Yash Kochrekar Chess" width="28px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/github.png" />
 </a>
 
 
