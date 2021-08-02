@@ -19,7 +19,14 @@
 📧 Email : <a href="https://yash.kochrekar07@gamil.com/">yash.kochrekar07@gmail.com</a><br>
 👉🏻 Portfolio Website :- (In the Pipeline😉)<br>
 </p>
-
+   
+---
+         
+### Connect with me :smiley:
+<a href="https://twitter.com/yash_kochrekar">
+  <img align="left" alt="Yash kochrekar Twitter" width="21px" src="https://github.com/Yash-Kochrekar/Yash-Kochrekar/blob/main/img/twitter.jpg" />
+</a>         
+         
 <!-- <p align="left"> <a href="https://twitter.com/yash_kochrekar" target="blank"><img src="https://icedrive.net/0/81au9gRQr1" alt="Yash Kochrekar"></a> </p> -->
 
 
